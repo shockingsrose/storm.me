@@ -1,0 +1,7 @@
+.husky
+.vscode
+node_modules
+public
+dist
+pnpm-lock.yaml
+package.json
