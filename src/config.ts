@@ -1,9 +1,9 @@
-import type { Site, SocialObjects } from "./types";
+import { type Site, type SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://storm95.me", // replace this with your deployed domain
   author: "Storm Zhou",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "Storm Zhou Blog",
   title: "Storm.me",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
@@ -60,7 +60,7 @@ export const SOCIALS: SocialObjects = [
     linkTitle: `${SITE.title} on LinkedIn`,
     active: false,
   },
-  
+
   {
     name: "Twitch",
     href: "https://github.com/satnaing/astro-paper",

@@ -79,7 +79,7 @@ importers:
         specifier: ^8.56.0
         version: 8.57.0
       eslint-plugin-astro:
-        specifier: ^0.31.3
+        specifier: ^0.31.4
         version: 0.31.4(eslint@8.57.0)
       husky:
         specifier: ^8.0.3
